@@ -1,6 +1,10 @@
 # create-webview-cli
 
 <p align="center">
+  <img src="./demo.gif" alt="Demo">
+</p>
+
+<p align="center">
   <pre>
   __        __   _  __     ___                     ____ _     ___ 
   \ \      / /__| |_\ \   / (_) _____      __     / ___| |   |_ _|

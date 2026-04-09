@@ -1,7 +1,7 @@
 # create-webview-cli
 
 <p align="center">
-  <video src="./video.mp4" alt="Demo">
+  <img src="./demo.gif" alt="Demo">
 </p>
 
 <p align="center">

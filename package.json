@@ -1,6 +1,6 @@
 {
   "name": "create-webview-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI to generate WebView projects",
   "license": "MIT",
   "bin": {

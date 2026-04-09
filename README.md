@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="./demo.gif" alt="Demo" width="600">
+  <img src="https://github.com/jmarquezruiz/webview-cli/blob/master/demo.gif" alt="Demo" width="600">
 </p>
 
 ## Overview

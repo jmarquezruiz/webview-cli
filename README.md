@@ -18,7 +18,7 @@
   <a href="https://www.npmjs.com/package/create-webview-cli">
     <img src="https://img.shields.io/npm/dt/create-webview-cli" alt="npm downloads">
   </a>
-  <a href="https://github.com/jmarquezdev/webview-cli/blob/main/LICENSE">
+  <a href="https://github.com/jmarquezruiz/webview-cli/blob/master/LICENSE">
     <img src="https://img.shields.io/npm/l/create-webview-cli" alt="license">
   </a>
 </p>

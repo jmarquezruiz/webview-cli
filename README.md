@@ -1,10 +1,6 @@
 # create-webview-cli
 
 <p align="center">
-  <img src="./demo.gif" alt="Demo">
-</p>
-
-<p align="center">
   <pre>
   __        __   _  __     ___                     ____ _     ___ 
   \ \      / /__| |_\ \   / (_) _____      __     / ___| |   |_ _|
@@ -25,6 +21,10 @@
   <a href="https://github.com/jmarquezruiz/webview-cli/blob/master/LICENSE">
     <img src="https://img.shields.io/npm/l/create-webview-cli" alt="license">
   </a>
+</p>
+
+<p align="center">
+  <img src="./demo.gif" alt="Demo" width="800">
 </p>
 
 ## Overview

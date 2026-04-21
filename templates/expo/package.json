@@ -6,6 +6,9 @@
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
     "android": "expo start --android",
+    "apk": "eas build -p android --profile preview --local",
+    "aab": "eas build --platform android --local",
+    "apk-server": "python3 -m http.server 80",
     "ios": "expo start --ios",
     "web": "expo start --web",
     "lint": "expo lint"
